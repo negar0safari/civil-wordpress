@@ -13,8 +13,6 @@ built with WordPress.
 
 <img width="1361" height="598" alt="Screenshot_5" src="https://github.com/user-attachments/assets/91804893-5c20-4056-b932-9e2786306941" />
 
-<img width="1353" height="576" alt="Screenshot_6" src="https://github.com/user-attachments/assets/70b6abd8-8273-4ed0-8890-87f651d50790" />
-
 <img width="1327" height="495" alt="Screenshot_7" src="https://github.com/user-attachments/assets/6af5fffd-632b-469b-bc46-b735fc1f096e" />
 
 
